@@ -1,0 +1,126 @@
+.banner{
+    background: url("Banner\ Image.png");
+    
+    width: 1500px;
+height: 600px;
+
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+    
+
+
+
+.container {
+   align-items: center;
+    color: aliceblue;
+   margin: 50px 100px;
+   
+   height: 400px;
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+
+.catagories{
+    margin-top: 100px;
+    
+    
+ 
+
+    
+}
+
+.catagories h1 {
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 80px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+.catagories p {
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.catagories h3 {
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+
+.catagories img {
+    width: 300px;
+height: 200px;
+
+margin-left: 600px;
+}
+
+.celeb-img {
+    width: 600px;
+height: 300px;
+align-items: center;
+justify-content: center;
+margin: 20px 200px;
+display: flex;
+
+}
+
+.celebration {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+
+.join-now{
+   background-color: #f3dfdf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    height: 600px;
+    width: px;
+}
+
+
+.join-btn{
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 16px 32px;
+    display: flex;
+    
+justify-content: center;
+align-items: center;
+gap: 10px;
+color: white;
+border-radius: 10px;
+background: #F00;
+border: 0px;
+
+}
+
+
+.join-text h1 {
+    font-size: 30px;
+  
+}
